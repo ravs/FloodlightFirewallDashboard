@@ -1,0 +1,49 @@
+.firewall-rules-wrapper {
+	text-align: center;
+	min-height: 80px;
+	border: 1px solid #eee;
+}
+
+.firewall-row {
+	margin-left: 0;
+	margin-right: 0;
+}
+
+.firewall-rules-header {
+	background-color: #ccc;
+	padding: 10px 0;
+	width: 100%;
+}
+
+.firewall-rules-row {
+	padding: 8px 0;
+	border-bottom: 1px solid #eee;
+	border-left: 1px solid #eee;
+	border-right: 1px solid #eee;
+}
+
+.firewall-rule-create {
+	padding: 0 20px;
+	margin: 20px 0;
+}
+
+.firewall-rules-row .action-row {
+	float: left;
+	padding-left: 20px;
+	padding-right: 15px;
+	font-size: 16px;
+	position: relative;
+	top: -3px;
+}
+
+.firewall-alert {
+	padding: 8px 20px;
+	margin-top: 15px;
+}
+
+footer {
+	text-align: center;
+	padding-top: 50px;
+	color: #777;
+	padding-bottom: 30px;
+}
